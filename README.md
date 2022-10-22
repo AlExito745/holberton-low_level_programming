@@ -3,3 +3,6 @@ C - Variables, if, else, while
 C - Functions, nested loops
 C - More functions, more nested loops
 C - Pointers, arrays and strings
+C - Recursion
+C - Makefile
+C - Static librariesC - Static libraries
